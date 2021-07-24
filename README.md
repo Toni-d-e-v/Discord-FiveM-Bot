@@ -1,4 +1,4 @@
-# hyperoleplay
+# Discord-FiveM-Bot
 A semi-advanced open source roleplay bot coded in DJS by Hyperz#0001
 
 # Dependencies:
